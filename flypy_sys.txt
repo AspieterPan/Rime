@@ -10,6 +10,10 @@
 #    ================
 # 
 
+#用户次选
+直	vi	99
+
+
 https://flypy.com	xhgw
 http://flypy.ys168.com	xhwp
 https://help.flypy.com	xhrm
@@ -134,7 +138,7 @@ https://help.flypy.com/#/gn	orm
 指定	vd
 征服	vf
 只会	vh
-支持	vi
+支持	vi	1
 整句	vj
 追求	vq
 只是	vu
