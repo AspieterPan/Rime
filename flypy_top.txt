@@ -22,6 +22,9 @@
 决	jt	80
 越来	ytld
 渐	jmi
+孟	mgz
+仅	ry
+合辑	hej
 
 # 全码词
 即可	jike
