@@ -25,6 +25,9 @@
 孟	mgz
 仅	ry
 合辑	hej
+定理	dkl
+真题	vfti
+公理	gsli
 
 # 全码词
 即可	jike
