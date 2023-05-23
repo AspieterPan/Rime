@@ -27,6 +27,7 @@
 事件	uij
 考研	kcyj
 简介	jmj
+正态	vgtd
 
 # 全码词
 即使	jiui

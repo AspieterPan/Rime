@@ -28,6 +28,8 @@
 定理	dkl
 真题	vfti
 公理	gsli
+蔡宜霏	cyf
+泰勒    tdle
 
 # 全码词
 即可	jike
