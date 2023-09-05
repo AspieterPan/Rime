@@ -24,7 +24,7 @@ switches:
     reset: 0
   - name: ascii_punct
     # states: [ 。，, ．， ]
-    reset: 0
+    reset: 1
 
 engine:
   processors:
