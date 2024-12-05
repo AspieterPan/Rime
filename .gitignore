@@ -4,3 +4,5 @@ build/default.yaml
 build/flypy.prism.bin
 build/flypy.schema.yaml
 build/ibus_rime.yaml
+build
+trash
