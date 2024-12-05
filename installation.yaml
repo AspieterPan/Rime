@@ -1,7 +1,7 @@
-distribution_code_name: "emacs-rime"
-distribution_name: Rime
-distribution_version: 1.0.1
+distribution_code_name: Squirrel
+distribution_name: "鼠鬚管"
+distribution_version: 1.0.2
 install_time: "Tue Oct 18 11:11:59 2022"
 installation_id: "18998dc6-0f84-440b-ac8b-ff5ce2d5d7e8"
-rime_version: 1.12.0
-update_time: "Wed Dec  4 02:20:10 2024"
+rime_version: 1.11.2
+update_time: "Fri Dec  6 01:22:59 2024"
