@@ -20,14 +20,17 @@
 卡册	kace
 滑记	hxji
 飞书	fwuu
-卡拉赞	klz
-溪风	xifg
-白薠	bdfj
 原型图	yxtu
 事件	uij
 考研	kcyj
 简介	jmj
 正态	vgtd
+分块	ffkk
+初始	iuui
+事物	uiw
+信念	xbnm
+认清	rfqk
+共产	gsij
 
 # 全码词
 即使	jiui
@@ -532,3 +535,4 @@
 暗自	anzi
 五笔	wubi
 座位	zoww
+高亮  gcll
