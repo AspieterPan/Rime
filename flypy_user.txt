@@ -31,6 +31,7 @@
 信念	xbnm
 认清	rfqk
 共产	gsij
+精力	jl
 
 # 全码词
 即使	jiui
